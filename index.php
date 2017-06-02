@@ -145,7 +145,7 @@
 
 				<div class="col-lg-4 col-md-3 kotel">
 					<img src="templates/<?=$cf['tplName']?>/img/kotel.png">
-					<button data-form="buy" class="modal_open">Придбати</button>
+					<button data-form="buy" class="modal_open">Купити</button>
 				</div>
 				<div class="row">
 					<div class="col-lg-offset-1 col-lg-11 col-md-offset-1 col-md-11 col-sm-12 col-xs-12">
