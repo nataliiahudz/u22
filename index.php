@@ -82,7 +82,7 @@
 	        <li><a class="scrollto"  href="#kotel">Котел</a></li>
 	        <li><a class="scrollto"  href="#perevagy">Переваги</a></li>
 	        <li><a class="scrollto"  href="#kontakt">Філіали</a></li>
-	        <li><a class="scrollto"  href="#gurt">На гурт</a></li>
+	        <li><a class="scrollto"  href="#gurt">Гуртом</a></li>
 	      </ul>
 	     </div>
      </div>
