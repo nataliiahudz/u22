@@ -94,7 +94,7 @@
 				<div class="col-lg-12 col-md-12 header_text">
 					<h3>Продаж чавунних<br><b>твердопаливних<br> котлів №1</b></h3><br>
 					<span>VIADRUS U22</span>
-					<h4 class="header_main">за ціною виробника<br> з безкоштовною доставкою<br>по всій Україні</h4>
+					
 					<button data-form="buy" class="modal_open">Купити</button>
 				</div>
 			</div>
